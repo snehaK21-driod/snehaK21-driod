@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sneha Kumari</h1>
 <h3 align="center">"Newbie to AI, but Excited to Build the Future"</h3>
-<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/0e73ae17-6e27-4c02-8681-34ffb42c738d" />
+<img align="right" width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/0e73ae17-6e27-4c02-8681-34ffb42c738d" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehak21-driod&label=Profile%20views&color=0e75b6&style=flat" alt="snehak21-driod" /> </p>
